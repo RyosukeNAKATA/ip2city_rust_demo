@@ -1,7 +1,6 @@
 # Documentation
 This repository is one of the demos of the code in [this repository](https://github.com/oschwald/maxminddb-rust)
-
-The main.rs uses [the code here](https://github.com/oschwald/maxminddb-rust/blob/main/examples/lookup.rs)
+and main.rs uses [the code here](https://github.com/oschwald/maxminddb-rust/blob/main/examples/lookup.rs)
 
 # How to use
 0. If you have not installed Rust language yet, follow the instructions [here](https://www.rust-lang.org/ja/tools/install) to install the Rust lang.
