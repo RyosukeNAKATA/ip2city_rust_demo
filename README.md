@@ -13,7 +13,7 @@ $ cd ip2city_rust_demo
 $ cargo run data/GeoLite2-City.mmdb aaa.bbb.ccc.ddd
 ```
 3. For example, the output might look like this.
-![img](/Users/ryosuke/ip2city_rust_demo/img/sample.png)
+![img](/img/sample.png)
 
 
 # License
